@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/extera-banner.png" width="100%" alt="Extera Project">
+  <img src="extera-banner.png" width="100%" alt="Extera Project">
 </p>
 
 <h1 align="center">Extera Project</h1>
